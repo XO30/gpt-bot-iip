@@ -1,0 +1,7 @@
+jupyter
+openai
+SpeechRecognition
+azure-cognitiveservices-speech
+gtts
+TTS
+cTTS
